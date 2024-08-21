@@ -3,6 +3,7 @@ Overview:
 This dashboard provides a comprehensive analysis of Year-to-Date (YTD) sales performance for an e-commerce business. The visualizations offer insights into key metrics such as total sales, profit, order quantity, market share, category-wise sales comparison, and customer acquisition trends across different markets.
 
 Key Features:
+https://public.tableau.com/app/profile/karthik.chavali1495/viz/E-commerceSalesdashboard_17242743268870/Dashboard1?publish=yes
 
 Sales Performance: Displays the total sales amount ($14.11M) with a comparison to the previous year (PY), showing a slight decrease of 5.04%.
 Profit Analysis: Highlights the current profit ($1.30M) and the percentage change compared to PY, showing a minor decrease of 0.46%.
