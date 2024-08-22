@@ -1,4 +1,6 @@
 E-Commerce Sales Dashboard - YTD Sales Analysis
+
+![Alt text](Ecommerce_Sales/dash1.jpg)
 Overview:
 This dashboard provides a comprehensive analysis of Year-to-Date (YTD) sales performance for an e-commerce business. The visualizations offer insights into key metrics such as total sales, profit, order quantity, market share, category-wise sales comparison, and customer acquisition trends across different markets.
 
